@@ -138,7 +138,7 @@ https://github.com/wagnerflow/dashboard-rh-powerbi
 <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=D2B48C"/>
 </a>
 
-<a href="mailto:reallygiveyato@gmail.com">
+<a href="mailto:wagnerjesus.analytics@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-8B5A2B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
