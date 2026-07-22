@@ -86,7 +86,7 @@ https://github.com/wagnerflow/dashboard-rh-powerbi
 
 Estudo de caso de um sistema de inteligência comercial e monitoramento de preços para Supply Chain, inspirado em desafios reais da minha atuação profissional.
 
-Este projeto documenta a visão de produto, a arquitetura e as decisões técnicas da solução — sem expor código-fonte, dados ou informações confidenciais do ambiente corporativo original.
+Este projeto documenta a visão de produto, a arquitetura e as decisões técnicas da solução, sem expor código-fonte, dados ou informações confidenciais do ambiente corporativo original.
 
 Ideal para quem quer entender como penso a arquitetura e o problema de negócio por trás de um sistema de dados.
 
